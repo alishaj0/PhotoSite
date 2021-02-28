@@ -14,7 +14,7 @@ p {
     
     letter-spacing: 5px;
     text-transform: uppercase;
-    /* text-align: center; */
+    text-align: center;
     border-bottom: 5px solid #ccc; 
     padding: 10px 0;   
     
